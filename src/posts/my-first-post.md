@@ -19,7 +19,7 @@ tags:
 ## Emphasis
 
 *This text will be italic*\
-*This will also be italic*
+*This will also be italic!*
 
 **This text will be bold**\
 **This will also be bold**
